@@ -1,2 +1,2 @@
 # website-project
- testing branches 
+ testing branches and hosting a website
